@@ -122,8 +122,8 @@ React (User / Captain / Admin)
 
 ## Deployment
 
-- **Backend:** [Admin Server](https://moveinsync-admin.onrender.com)
-- **Frontend:** [User Application](https://moveinsync-frontend.onrender.com)
+- **Admin  Panel :** [Admin Server](https://moveinsync-admin.onrender.com)
+- **Live App :** [User Application](https://moveinsync-frontend.onrender.com)
 
 ---
 
@@ -162,10 +162,11 @@ React (User / Captain / Admin)
 ![WhatsApp Image 2026-02-23 at 10 27 11 AM](https://github.com/user-attachments/assets/2b896cd5-4dfa-47a3-b513-68395515de4d)
 
 
+## Voice Assistance 
 
+![WhatsApp Image 2026-02-23 at 10 37 07 AM](https://github.com/user-attachments/assets/22ed8831-ba3d-412f-997d-e60a22af107b)
 
-
-
+![WhatsApp Image 2026-02-23 at 10 37 07 AM](https://github.com/user-attachments/assets/5cf58a1b-4e32-43ab-8003-323f813b7dff)
 
 
 

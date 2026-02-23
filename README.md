@@ -130,16 +130,6 @@ React (User / Captain / Admin)
 
 ---
 
-## Deployment
-
-The application is deployed on **Render** with:
-
-* Environment-based configuration
-* Scalable backend services
-* Production-ready build setup
-
----
-
 ## Future Enhancements
 
 * Ride scheduling
@@ -150,6 +140,11 @@ The application is deployed on **Render** with:
 
 ---
 
+## Application Snapshots
+
+
+
+---
 ## Author
 
 **Srijan Jaiswal**

@@ -25,6 +25,12 @@ Built using a modern client–server architecture with real-time communication a
 | Deployment  | Render                                                 |
 
 ---
+## Flow Charts
+![WhatsApp Image 2026-02-23 at 10 34 58 AM](https://github.com/user-attachments/assets/15aa7139-9a43-48ef-8224-192d3de2bb6f)
+
+
+
+---
 
 ## Core Features
 

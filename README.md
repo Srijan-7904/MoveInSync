@@ -5,6 +5,8 @@
 
 ---
 
+
+
 **MoveInSync** is a scalable, full-stack ride-booking platform delivering an Uber-style mobility experience.
 It supports real-time ride operations, role-based workflows, secure payments, and live tracking across **User**, **Captain**, and **Admin** applications.
 
@@ -112,9 +114,10 @@ React (User / Captain / Admin)
 * Firebase Cloud Messaging (Notifications)
 * Map APIs (Routing & Distance)
 
-### Deployment
+## Deployment
 
-* Render
+- **Backend:** [Admin Server](https://moveinsync-admin.onrender.com)
+- **Frontend:** [User Application](https://moveinsync-frontend.onrender.com)
 
 ---
 
